@@ -1,6 +1,6 @@
 # Vineetsing Girase
 
-**Java Full Stack Developer** · BCA, First Class (2025) · Thane, Maharashtra, India
+**Java Full Stack Developer** · BCA, First Class (2025) · Badlapur, Maharashtra, India
 
 I build secure back-end applications with **Java, Spring Boot and MySQL**, and responsive front ends with **HTML, CSS, Bootstrap, JavaScript and React**. I'm completing the Java Full Stack Development Master Program at I.T. Vedant and I'm open to entry-level **Java / Full Stack Developer** roles.
 
