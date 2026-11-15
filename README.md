@@ -1,34 +1,22 @@
-# Vineetsing Girase
+# Hi, I'm Vineetsing 👋
 
-**Java Full Stack Developer** · BCA, First Class (2025) · Badlapur, Maharashtra, India
+**Java Full Stack Developer** · Spring Boot · React · MySQL · BCA (2025)
 
-I build secure back-end applications with **Java, Spring Boot and MySQL**, and responsive front ends with **HTML, CSS, Bootstrap, JavaScript and React**. I'm completing the Java Full Stack Development Master Program at I.T. Vedant and I'm open to entry-level **Java / Full Stack Developer** roles.
+I build backend APIs and web apps, and I learn by shipping small projects every week.
+Currently open to **entry-level developer roles**.
 
-## Tech stack
+## 🚀 Featured projects
 
-| Area | Skills |
-|---|---|
-| Languages | Java 17, JavaScript (ES6), SQL |
-| Back end | Spring Boot, Spring MVC, Spring Data JPA, Spring Data REST, Spring Security, REST APIs, JDBC |
-| Front end | HTML5, CSS3, Bootstrap 5, JavaScript, React |
-| Database | MySQL |
-| Testing and tools | JUnit 5, Mockito, Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code |
+- **[MiTu AI Assistant](https://github.com/Vineetsing9019/MiTu-AI)**: chat with your PDFs with page citations, web answers and free AI pictures. Java 21, Spring Boot 3, Google Gemini. **[Live demo](https://mitu-ai.onrender.com)**
+- **[PetHaven](https://github.com/Vineetsing9019/PetHaven)**: animal-shelter REST API with Spring Security (BCrypt, USER/ADMIN roles), JPA and MySQL.
+- **[Mehfil Antakshari](https://github.com/Vineetsing9019/mehfil-antakshari)**: online singing game with real-time rooms (Node.js, Socket.IO, WebRTC).
+- **[Currency Converter](https://github.com/Vineetsing9019/JavaScriptProject)** · [Live demo](https://vineetsing9019.github.io/JavaScriptProject/): live exchange rates with async fetch and validation.
+- **[Pet Adoption Database](https://github.com/Vineetsing9019/SQLProject)**: MySQL schema with keys, constraints, joins and aggregates.
 
-## Featured projects
+## 🛠 Tech
 
-| Project | Description | Tech |
-|---|---|---|
-| [PetHaven](https://github.com/Vineetsing9019/PetHaven) | Secure REST API for an animal shelter: BCrypt login, USER and ADMIN roles, an adoption workflow (request, approve, reject) and 8 unit tests | Spring Boot, Spring Security, JPA, MySQL, JUnit 5, Mockito |
-| [Paw Friends](https://github.com/Vineetsing9019/pet-adoption-website) · [Live demo](https://vineetsing9019.github.io/pet-adoption-website/) | Responsive 5-page pet adoption website | HTML5, CSS3, Bootstrap 5 |
-| [Currency Converter](https://github.com/Vineetsing9019/JavaScriptProject) · [Live demo](https://vineetsing9019.github.io/JavaScriptProject/) | Converts 8 currencies with real-time rates from a REST API | JavaScript, Fetch API, async/await |
-| [Pet Adoption Database](https://github.com/Vineetsing9019/SQLProject) | Relational schema with constraints, joins and aggregate queries | MySQL |
-| [Pet Manager](https://github.com/Vineetsing9019/JavaProject) | Console CRUD application using the DAO pattern | Core Java, JDBC, MySQL |
-| [Everyday Apps](https://github.com/Vineetsing9019/my-apps-with-claude-code) | Salon chair queue and an online antakshari game, built with an AI coding assistant | Node.js, Express, Socket.IO, JavaScript |
+Java · Spring Boot · Spring Security · JPA · REST APIs · React · JavaScript · HTML/CSS/Bootstrap · MySQL · Git & GitHub
 
-## Practice
+## 📫 Contact
 
-Daily practice repositories: [Java](https://github.com/Vineetsing9019/JavaPractice) · [Spring Boot](https://github.com/Vineetsing9019/SpringPractice) · [Web](https://github.com/Vineetsing9019/WebDevelopmentPractice) · [JavaScript](https://github.com/Vineetsing9019/JavaScriptPractice) · [React](https://github.com/Vineetsing9019/ReactPractice)
-
-## Contact
-
-Email: [vinygirase@gmail.com](mailto:vinygirase@gmail.com)
+Email: vinygirase@gmail.com
